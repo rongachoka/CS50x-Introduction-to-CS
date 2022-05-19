@@ -13,3 +13,5 @@
       4.1. AMEX - card length = 15 digits, starting digits = 34, 35
       4.2. VISA - card length = 13, 16 digits, starting digit = 4
       4.3. MASTERCARD - card length = 16 digits, starting digits = 51,52,53,54,55
+
+## Week 2 - Arrays
