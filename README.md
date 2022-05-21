@@ -15,3 +15,10 @@
       4.3. MASTERCARD - card length = 16 digits, starting digits = 51,52,53,54,55
 
 ## Week 2 - Arrays
+### Cipher text
+
+- Week 2 project was to create a caesar cipher
+
+    1. The cipher was to ensure that the key given takes in only integer values
+    2. It takes in a plaintext and converts it to a ciphertext that can be sent out
+    3. The cipher text also had to ensure that the alphabet could be repeated once any values exceed "Z"
