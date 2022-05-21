@@ -15,7 +15,7 @@
       4.3. MASTERCARD - card length = 16 digits, starting digits = 51,52,53,54,55
 
 ## Week 2 - Arrays
-### Cipher text
+### Caesar cipher
 
 - Week 2 project was to create a caesar cipher
 
